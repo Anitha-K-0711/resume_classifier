@@ -1,4 +1,4 @@
-# resume_classifier
+# RESUME_CLASSIFIER
 # A Multi-Class Classification NLP Project
 
 ## Introduction
